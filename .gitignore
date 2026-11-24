@@ -1,0 +1,59 @@
+# ─────────────────────────────────────────────────────────────
+#  Qué NO se sube a GitHub
+#  (videos, audios y archivos de trabajo pesados quedan en cada compu;
+#   se pasan aparte por disco externo o Drive)
+# ─────────────────────────────────────────────────────────────
+
+# Configuración propia de cada compu (rutas de Python, ffmpeg…)
+config.local.json
+
+# Videos y audios (todos)
+*.mp4
+*.MP4
+*.mov
+*.MOV
+*.m4v
+*.m4a
+*.wav
+*.mp3
+*.aac
+*.f32
+*.webm
+
+# Propiedades: todo queda solo en la compu (fichas, guiones, tomas y videos terminados)
+Reels con Claude/Propiedades/*
+!Reels con Claude/Propiedades/LEEME.txt
+
+# Tomas crudas y Bandeja
+Reels con Claude/Bandeja/*
+!Reels con Claude/Bandeja/LEEME.txt
+Reels con Claude/Captacion/*/toma/
+Reels con Claude/Marca personal/*/toma/
+
+# Carpetas de trabajo de cada reel: solo se suben los scripts y los .json
+**/trabajo/*
+!**/trabajo/*.py
+!**/trabajo/*.json
+!**/trabajo/*.md
+**/graficos/
+**/.hyperframes/
+**/trabajo/src/
+**/trabajo/voz/
+**/trabajo/sfx/
+**/trabajo/sdr/
+
+# Skill de reels: modelo de recorte (~100 MB, lo baja el instalador) y dependencias de Node
+Skills/editar-reels-claude/models/
+**/node_modules/
+
+# Meta Ads: datos personales de los leads y exportes del Administrador de anuncios
+Meta Ads/**/leads.csv
+Meta Ads/**/resultados/
+
+# Varios
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*

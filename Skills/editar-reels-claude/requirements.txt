@@ -1,0 +1,9 @@
+# Instala PyTorch primero (lo hace instalar.ps1):
+#   con NVIDIA: pip install torch --index-url https://download.pytorch.org/whl/cu128
+#   sin NVIDIA / Mac: pip install torch
+openai-whisper>=20250625
+numpy>=1.26
+pillow>=10.0
+soundfile>=0.12
+nara-wpe>=0.0.11
+scipy>=1.11

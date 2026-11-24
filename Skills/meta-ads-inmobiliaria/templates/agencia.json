@@ -1,0 +1,21 @@
+{
+  "nombre": "",
+  "corredor": "",
+  "matricula": "",
+  "pagina_facebook": "",
+  "instagram": "",
+  "whatsapp": "",
+  "cuenta_publicitaria_id": "",
+  "moneda": "USD",
+  "url_politica_privacidad": "",
+  "responsable_leads": "",
+  "horario_respuesta": "",
+  "ruta_fabrica_reels": "../Reels con Claude",
+  "requisitos_ok": {
+    "cuenta_publicitaria_y_pago": false,
+    "pagina_e_instagram_conectados": false,
+    "whatsapp_business_conectado": false,
+    "politica_privacidad_publicada": false
+  },
+  "notas": "Datos fijos de la agencia. Los tokens, contraseñas y datos de tarjeta NO van acá."
+}

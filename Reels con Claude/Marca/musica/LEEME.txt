@@ -1,0 +1,1 @@
+Opcional: música propia. Si no hay, Claude la genera con SynthFlow.

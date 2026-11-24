@@ -1,0 +1,71 @@
+{
+  "id": "AAAA-MM-DD · <zona o propiedad>",
+  "tipo": "captacion",
+  "_tipo_valores": "captacion | venta",
+  "propiedad": null,
+  "_propiedad": "venta: nombre de la carpeta en Reels con Claude/Propiedades (ej. 'Funes - San Martín 450'); captacion: null",
+  "zona": "",
+  "estado": "borrador",
+  "_estado_valores": "borrador | aprobada | activa | pausada | cerrada",
+  "fechas": {
+    "creada": "",
+    "inicio": "",
+    "fin_prevista": "",
+    "fin_real": "",
+    "revisiones": []
+  },
+  "meta": {
+    "nombre_campana": "CAP | <Zona> | WSP | AAAA-MM",
+    "objetivo": "Interacción",
+    "ubicacion_conversion": "Mensajes: WhatsApp",
+    "objetivo_rendimiento": "Maximizar el número de conversaciones",
+    "categoria_especial": "ninguna",
+    "presupuesto_campana_advantage": false,
+    "ids": {}
+  },
+  "presupuesto": {
+    "diario_usd": 5,
+    "dias": 14,
+    "total_usd": 70,
+    "nota": "La tarjeta suma IVA y percepciones vigentes sobre lo gastado."
+  },
+  "conjuntos": [
+    {
+      "nombre": "<Zona> 2km | 30-65 | intereses-inmo",
+      "ubicaciones": [
+        { "tipo": "pin", "nombre": "<Barrio>", "lat": 0, "lng": 0, "radio_km": 2 }
+      ],
+      "excluir": [],
+      "edad": [30, 65],
+      "intereses": ["Inmuebles", "ZonaProp", "Argenprop", "Inversión inmobiliaria"],
+      "publico_advantage": false,
+      "ubicaciones_advantage": true
+    }
+  ],
+  "anuncios": [
+    {
+      "nombre": "A1 tasacion-reel",
+      "formato": "video 9:16",
+      "archivo": "",
+      "copy": "anuncios/copys.md#A1",
+      "multianunciante_desactivado": true,
+      "mejoras_advantage_visuales_desactivadas": true
+    }
+  ],
+  "chat_o_formulario": {
+    "_captacion": "saludo + preguntas frecuentes del chat",
+    "_venta": "tipo de formulario + preguntas de filtro",
+    "detalle": "anuncios/copys.md"
+  },
+  "kpis_objetivo": {
+    "fuente": "referencia inicial (analisis.md) | mediana de historico.csv",
+    "costo_por_resultado_usd": 1.5,
+    "ctr_enlace_min_pct": 1.0,
+    "cpm_max_usd": 4,
+    "frecuencia_max": 3,
+    "tasa_calificacion_min_pct": 10,
+    "costo_por_calificado_usd": 15,
+    "calificados_meta": 4
+  },
+  "notas": ""
+}

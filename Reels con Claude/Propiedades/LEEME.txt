@@ -1,0 +1,3 @@
+Una carpeta por propiedad: «<Localidad> - <Dirección>/» con propiedad.json, guiones/, tomas/, reels/ y publicacion-fotos/.
+Todo lo de esta carpeta queda SOLO en la compu: no se sube a GitHub. Para llevar una propiedad a otra compu, copiá su carpeta entera (pendrive o Drive).
+Ficha de ejemplo para propiedades nuevas: ../Formatos/propiedad.ejemplo.json

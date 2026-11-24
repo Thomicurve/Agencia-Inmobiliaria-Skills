@@ -1,0 +1,1 @@
+Un reel por carpeta: «AAAA-MM-DD · <tema>/» con toma/, guion.md, proyecto.json, trabajo/ y el FINAL.

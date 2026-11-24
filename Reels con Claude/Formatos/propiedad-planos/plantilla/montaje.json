@@ -1,0 +1,18 @@
+{"fps": 30, "total": 61.47, "scenes": [
+ {"name": "ubicacion: exterior casa y lote", "src": "Exterior60", "k": [[0, 0.0], [4.4, 1.6], [10.0, 3.55]]}, 
+ {"name": "entras: todo integrado", "src": "Cocina-comedor-living", "k": [[10.0, 0.25], [11.35, 2.6], [12.5, 4.5]]}, 
+ {"name": "cocina con isla", "src": "Cocina-Isla", "k": [[12.5, 0.0], [13.6, 1.45]]}, 
+ {"name": "comedor y living", "src": "Comedor-living", "k": [[13.6, 0.0], [14.75, 1.9], [15.75, 3.4]]}, 
+ {"name": "domingo", "src": "Cocina-Isla", "k": [[15.75, 1.55], [18.59, 3.5]]}, 
+ {"name": "toilette", "src": "BañoAbajo60", "k": [[18.59, 0.0], [20.99, 1.9], [23.74, 4.25]]}, 
+ {"name": "subimos", "src": "DescansoArriba", "k": [[23.74, 0.0], [26.84, 2.75]]}, 
+ {"name": "suite enorme", "src": "Suite", "k": [[26.84, 0.0], [28.19, 2.4], [29.49, 4.2]]}, 
+ {"name": "vestidor y bano propio", "src": "Vestidor-bañosuite", "k": [[29.49, 0.0], [32.14, 2.35]]}, 
+ {"name": "segundo dormitorio", "src": "DormitorioArriba", "k": [[32.14, 0.0], [33.39, 2.3], [34.59, 4.35]]}, 
+ {"name": "bano completo", "src": "BañoArriba", "k": [[34.59, 0.2], [36.44, 3.6]]}, 
+ {"name": "afuera pileta", "src": "Quincho60", "k": [[36.44, 0.0], [39.59, 2.55]]}, 
+ {"name": "quincho parrilla horno", "src": "Quincho60", "k": [[39.59, 2.55], [43.19, 6.3]]}, 
+ {"name": "habitacion y bano independiente", "src": "habitacionquincho-bañoquincho", "k": [[43.19, 0.0], [44.89, 1.6], [46.74, 3.8]]}, 
+ {"name": "apto credito", "src": "Living", "k": [[46.74, 0.0], [48.89, 4.3]]}, 
+ {"name": "permuta", "src": "Living260", "k": [[48.89, 0.0], [53.69, 5.0]]}, 
+ {"name": "CTA", "src": "Comedor-cocina60", "k": [[53.69, 0.0], [61.47, 3.5]]}]}

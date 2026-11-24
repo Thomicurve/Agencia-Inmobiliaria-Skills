@@ -1,0 +1,26 @@
+{
+ "nombre": "<Localidad> - <Dirección>",
+ "operacion": "venta",
+ "tipo": "casa",
+ "direccion": "<Calle y número>",
+ "localidad": "<Localidad>",
+ "moneda": "USD",
+ "precio": 0,
+ "palabra_cta": "<palabra que comentan, suele ser la localidad o el barrio>",
+ "datos": {
+  "antiguedad_anios": 0,
+  "m2_cubiertos": 0,
+  "m2_lote": 0,
+  "plantas": 1,
+  "dormitorios": 0,
+  "banos": 0,
+  "toilette": false,
+  "pileta": false,
+  "quincho": "",
+  "extras": []
+ },
+ "apto_credito": false,
+ "permuta": "",
+ "estado": "en preparación",
+ "notas": "Copiar a Propiedades/<Localidad> - <Dirección>/propiedad.json y completar. Si cambia el precio, se cambia solo ahí."
+}
